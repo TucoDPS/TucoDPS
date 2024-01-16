@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Arthur</h2>
+##Olá 👋! Meu nome é Arthur
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Tecnologias que eu uso</h2>
+## Tecnologias que eu uso no meu dia
 
 ###
 
@@ -40,7 +40,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/TucoDPS/TucoDPS/output/snake.svg" alt="Snake animation" />
 
 ###
